@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Camera Latency Test</string>
+    <string name="clockMilliseconds">%1$02d:%2$06.03f</string>
+</resources>
