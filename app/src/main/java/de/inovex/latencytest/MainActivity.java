@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT
+// SPDX-FileCopyrightText: Copyright (c) 2022 inovex GmbH
+
 package de.inovex.latencytest;
 
 import android.Manifest;
