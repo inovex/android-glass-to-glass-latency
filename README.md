@@ -46,10 +46,16 @@ The Java implementation starts here:
 
 # Talk
 
-This repository was mentioned in the talk ...
+This repository was mentioned in the talk *Adventures with Systrace - measure
+and investigate the glass to glass latency in Android*. I held the talk
+at [The AOSP and AAOS November meetup](https://www.meetup.com/the-aosp-and-aaos-meetup/events/296399142/).
 
-TODO add content of this section
-TODO add slides!
+The meetup homepage is
+[The AOSP and AAOS Meetup](https://aospandaaos.github.io/#the-november-2023-meetup).
+You can find the link to the [slides](https://2net.co.uk/slides/aosp-aaos-meetup/2023-november-slengfeld-glass-to-glass-latency.pdf)
+and the [video](https://youtu.be/NKP4JcVegbY) on the meetup's homepage.
+And here is a backup of the [slides](talk/Talk_Stefan-Lengfeld_glass-to-glass-latency-in-Android.v1.pdf)
+committed in this repo.
 
 
 # History
