@@ -1,10 +1,10 @@
-# Android - Glass to glass latency
+# Android - Glass-to-glass latency
 
 This repo is a collection of tests and code that were used to investigate the
-glass to glass latency on an Android smartphone.
+glass-to-glass latency on an Android smartphone.
 
 What is the glass-to-glass latency? If you have a device with a camera and a
-display, like a smartphone or a camcorder, the glass to glass latency is the
+display, like a smartphone or a camcorder, the glass-to-glass latency is the
 time between capturing an image by the camera and showing the frame on the
 display again.  It's the time between the class of the camera and the glass of
 the display.
@@ -46,8 +46,8 @@ The Java implementation starts here:
 
 # Talk
 
-This repository was mentioned in the talk *Adventures with Systrace - measure
-and investigate the glass to glass latency in Android*. I held the talk
+This repository was mentioned in the talk *Adventures with Systrace - Measure
+and investigate the glass-to-glass latency in Android*. I held the talk
 at [The AOSP and AAOS November meetup](https://www.meetup.com/the-aosp-and-aaos-meetup/events/296399142/).
 
 The meetup homepage is
