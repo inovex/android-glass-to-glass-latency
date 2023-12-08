@@ -9,7 +9,7 @@ time between capturing an image by the camera and showing the frame on the
 display again.  It's the time between the class of the camera and the glass of
 the display.
 
-![Glass to glass latency](pics/glass-to-glass-latency--image-from-slides.png)
+![Glass-to-glass latency](pics/glass-to-glass-latency-graphic.svg)
 
 # Usage
 
