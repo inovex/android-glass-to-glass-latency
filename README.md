@@ -44,7 +44,7 @@ The Java implementation starts here:
 [PixelTorch.java](app/src/main/java/de/inovex/latencytest/PixelTorch.java)
 
 
-# Talk
+# Talk & Blogpost
 
 This repository was mentioned in the talk *Adventures with Systrace - Measure
 and investigate the glass-to-glass latency in Android*. I held the talk
@@ -56,6 +56,10 @@ You can find the link to the [slides](https://2net.co.uk/slides/aosp-aaos-meetup
 and the [video](https://youtu.be/NKP4JcVegbY) on the meetup's homepage.
 And here is a backup of the [slides](talk/Talk_Stefan-Lengfeld_glass-to-glass-latency-in-Android.v1.pdf)
 committed in this repo.
+
+This repo is also mentioned in the blogpost
+[Glass-To-Glass Latency on Android – How Fast Is Your Smartphone’s Camera Really?](https://www.inovex.de/de/blog/the-glass-to-glass-latency-on-android/).
+The post is a written down version of the talk.
 
 
 # History
